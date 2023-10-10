@@ -9,7 +9,7 @@ class GcpApplicationTests {
 
 	@Test
 	void test() {
-		Assertions.assertEquals(1+1,3);
+		Assertions.assertEquals(1+2,2);
 	}
 
 }
