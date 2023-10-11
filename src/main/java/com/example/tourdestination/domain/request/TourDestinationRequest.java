@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Getter
 public class TourDestinationRequest {
+    //
     private String tourDestinationName; //관광지이름
     private String tourDestinationLocation; //관광지위치
     private String tourDestinationContent; //관광지정보 키워드 주제 등
