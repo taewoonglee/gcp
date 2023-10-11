@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class TourDestinationReviewsRequest {
     private Long tdId;
+    //
     private String reviewTitle;
     private String reviewContent;
     private String name;
